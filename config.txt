@@ -1,0 +1,12 @@
+BODY_BACKGROUND #6495ED
+CELL_BACKGROUND1 DarkSlateBlue
+CELL_BACKGROUND2 DeepPink
+TABLE_BORDER_COLOR Red
+TABLE_BORDER_PX 20
+AUTHORS Victoria and Jason and Derrick and Milly
+TITLE FRUITS
+IMAGES
+banana.png raspberry.png 
+strawbs.png orange.png
+pear.png cherry.png
+watermelon.png grape.png

@@ -1,9 +1,5 @@
 #Victoria Slater and Jason Karos
-#COM 214 HW 1
-#Due Wednesday 2/8/17 end of day
-#Victoria Work Division Assessment: Jason - 50%, Victoria - 50%
-#Jason Work Division Assessment: Jason - 50%, Victoria - 50%
-
+#COM 214 
 
 
 from random import*
